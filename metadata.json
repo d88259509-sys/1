@@ -1,0 +1,6 @@
+{
+  "name": "Counter-Strike 1.6 Web3D",
+  "description": "Tactical 3D first-person shooter in the browser inspired by CS 1.6 bomb defusal with procedural maps, bot AI, audio synthesis, and authentic weapons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
